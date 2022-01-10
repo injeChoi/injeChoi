@@ -8,7 +8,7 @@
 🌱 I’m currently learning iOS, Swift, RxSwift <br>
 👯 I’m looking to collaborate with Backend Developer and App Designer <br>
 🏫 Soongsil University - Software Engineering <br>
-🧩 DND 6th Member - iOS (2022.01 ~ 2022.02) <br>
+🧩 DND 6th Member - iOS Team <br>
 
 <h3 align="center"🛠 Tech Stack</h3>
   
