@@ -9,6 +9,7 @@
 👯 I’m looking to collaborate with Backend Developer and App Designer <br>
 🏫 Soongsil University - Software Engineering <br>
 🧩 DND 6th Member - iOS Team <br>
+🤼 UNITHON 8th 완성 - iOS Developer <br>
 
 <h3 align="center"🛠 Tech Stack</h3>
   
